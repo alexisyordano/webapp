@@ -1,0 +1,15 @@
+para correr Codeigenter
+se necesita acceder a la carpeta application/config  y en archivo config
+se modifca la siguiente url $config['base_url'] = 'http://localhost:8083/prueba/';
+ya que alli esta mi url donde ejecuta mi aplicacion local en mi maquina
+
+
+configuracion de la Db
+ir al archivo database y modificar los parametros
+
+
+tambien el la raiz del sitio hay un archivo .htaccess, configurable, para poder ejecutar las url amigables.
+
+
+Gracias...
+
